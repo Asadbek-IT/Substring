@@ -1,0 +1,14 @@
+C:\Users\User\c-sharp-module\Supstring\bin\Debug\net8.0\Supstring.exe
+C:\Users\User\c-sharp-module\Supstring\bin\Debug\net8.0\Supstring.deps.json
+C:\Users\User\c-sharp-module\Supstring\bin\Debug\net8.0\Supstring.runtimeconfig.json
+C:\Users\User\c-sharp-module\Supstring\bin\Debug\net8.0\Supstring.dll
+C:\Users\User\c-sharp-module\Supstring\bin\Debug\net8.0\Supstring.pdb
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.AssemblyInfoInputs.cache
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.AssemblyInfo.cs
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.csproj.CoreCompileInputs.cache
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.dll
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\refint\Supstring.dll
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.pdb
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\Supstring.genruntimeconfig.cache
+C:\Users\User\c-sharp-module\Supstring\obj\Debug\net8.0\ref\Supstring.dll
